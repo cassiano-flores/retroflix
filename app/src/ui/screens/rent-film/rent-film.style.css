@@ -1,0 +1,16 @@
+.container-rent {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+.container-rent input {
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}

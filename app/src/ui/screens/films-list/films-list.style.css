@@ -1,0 +1,12 @@
+.container-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.container-list-films {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,39 @@
+.card-film {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.423);
+  width: 350px;
+  height: 400px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.card-film-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card-film-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.card-film-footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.card-film-description {
+  padding: 10px;
+  max-height: 150px;
+  overflow-y: auto;
+}

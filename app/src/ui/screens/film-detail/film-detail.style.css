@@ -1,0 +1,13 @@
+.container-film-detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.container-film-detail div {
+    padding: 10px;
+}
