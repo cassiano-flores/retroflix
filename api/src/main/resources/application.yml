@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/oldflix
+    url: jdbc:postgresql://localhost:5432/retroflix
     username: postgres
     password: 12345
 
